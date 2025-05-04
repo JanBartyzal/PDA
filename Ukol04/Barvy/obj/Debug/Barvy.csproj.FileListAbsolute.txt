@@ -1,0 +1,10 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\bin\Debug\Barvy.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\bin\Debug\Barvy.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\bin\Debug\Barvy.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.Form1.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Barvy\obj\Debug\Barvy.pdb

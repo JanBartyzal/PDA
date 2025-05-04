@@ -1,0 +1,14 @@
+Vlákna:
+
+1. Proveďte úpravu úkolu pro kopířování souboru (viz předchozí cvičení) tak, že proces kopírování bude řešen ve vlákně.
+
+2. Na progressbaru se bude zobrazovat aktuální stav kopírování (tedy počet zpracovaných znaků / počet všech znaků). Zajistětě synchronizaci přístupu ke komponentě progressbar.
+
+Server/Klient, síťové programování:
+
+3. Upravte příklad přednášky Server a Klient tak, aby server obsluhoval jednotlivé klienty ve vlákně a proces obsluhy klienta nebyl blokující pro ostatní klienty.
+
+4. Využijte ukázku "Server/Client" pro vytvoření systému uchovávající aktuální souřadnice GPS a čtoucí souřednice.
+
+
+Pracuje na finalizaci semestráního projektu a přípravě na prezentaci. 

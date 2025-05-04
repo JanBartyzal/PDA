@@ -1,0 +1,10 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\bin\Debug\SazbyDane.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\bin\Debug\SazbyDane.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\bin\Debug\SazbyDane.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\SazbyDane\obj\Debug\SazbyDane.SazbyDane.resources

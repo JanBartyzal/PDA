@@ -1,0 +1,14 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\bin\Debug\Ukol2.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\bin\Debug\Ukol2.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\bin\Debug\Ukol2.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.Form1.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.UserControl_Password1.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.UserControl_Password3.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.UserControl_Password2.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol2\obj\Debug\Ukol2.UserControl_GeneratorCitace.resources

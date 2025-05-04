@@ -1,0 +1,17 @@
+
+Nastudujte si generátor náhodných čísel .NET/C#.
+
+1. Vytvořte třídu s funkcí, která vytvoří textový soubor o zadaném počtu náhodně generovaných znaků (případně pouze alfanumerických znaků).
+
+MojeSouboroveOperace::vytvorNahodnySoubor(string filename, int countChar)
+
+výberově: 2. Dědičností (!) rozšiřte komponentu pro výběr souboru (děláno na předcházejích cvičeních), např. UserControl2, která bude mít zatrhávací
+checkbox. Tímto zaškrtávacím políčkem se řekne, že se na základě zvoleného zdrojového souboru nadefinuje cílový soubor, 
+jehož název bude obsahovat postfix _copy (např. pro data.txt to bude data_copy.txt). Umístění zdrojového a cílového souboru bude stejné.
+
+3. Vytvořte winform aplikaci, která umožní kopírování textového souboru znak po znaku s úpravou jistých znaků 
+(např. malá písmena změnit na velká nebo při více mezerách odstranit redundantní mezery). Pro volbu zdrojového a cílového souboru
+použijte již připravenou komponentu UserControl2 (děláno na předcházejícím cvičení a upraveno v předcházejícím bodě). 
+Pro kopírování souboru připravte funkci do třídy použité v předcházejícím bodu.
+
+MojeSouboroveOperace::kopirujSoubor(string filenameSource, string filenameDest)

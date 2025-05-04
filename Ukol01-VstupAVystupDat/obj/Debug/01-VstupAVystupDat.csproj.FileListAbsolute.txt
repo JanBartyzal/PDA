@@ -1,0 +1,7 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\bin\Debug\01-VstupAVystupDat.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\bin\Debug\01-VstupAVystupDat.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\bin\Debug\01-VstupAVystupDat.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\obj\Debug\01-VstupAVystupDat.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\obj\Debug\01-VstupAVystupDat.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\obj\Debug\01-VstupAVystupDat.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\01-VstupAVystupDat\obj\Debug\01-VstupAVystupDat.pdb

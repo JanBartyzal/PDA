@@ -1,0 +1,10 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\bin\Debug\Predmety.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\bin\Debug\Predmety.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\bin\Debug\Predmety.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.Form1.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol04\Predmety\obj\Debug\Predmety.pdb

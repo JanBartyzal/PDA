@@ -1,0 +1,43 @@
+1. Vytvořte aplikaci (Winforms), která umožní volit sazbu daně a zobrazovat hodnotu zvolené sazby daně. 
+
+2.
+Vytvořte aplikaci, která bude pracovat se seznam definovaných barev. 
+Seznam barev bude zobrazen v komponentě ListBox a barva bude objekt definovaný třídou Barva. 
+Třída Barva bude uchovávat údaje: název barvy, hodnoty barevných složek R,G,B (typ byte) a bude si dopočítávat hodnotu intenzity barvy podle vztahu (R+G+B)/3.
+Intenzita je reálným číslem. Objekt barvy nemá možnost měnit barvu a neposkytuje hodnoty barevných složek. Poskytuje spočtenou intezitu, 
+název barvy a hexadecimální vyjádření barvy ve tvaru #FFFFFF.
+V seznamu bude barva reprezentována v tomto formátu: 'název barvy (#FFFFFF):intenzita'. 
+
+Aplikace umožní vkládat barvy do seznamu. 
+Odstraňovat vybranou položku seznamu. 
+Zobrazovat kompletní informaci o vybrané položce seznamu, bude reagovat na změnu výběru. 
+Umožní seřadit aktuální seznam barev podle intenzity (vzestupně/sestupně).
+Tlačítkem (šipka dolů) umožní přecházet na další položku v seznamu, tlačítkem (šipka nahoru) umožní přecházet na předcházející položku seznamu.
+Tlačítkem Seřadit umožní seřadit barvy podle intenzity sestupně nebo vzestupně (dáno radiobuttonem).
+
+Při vkládání barvy do seznamu se bude hlídat, zda už neexistuje barva identických barevných složek. 
+
+Nápověda: Použijte komponentu ListBox, ArrayList, využijte komparační funkce, radiobutton.
+
+Z fragmentu aplikace vytvořte funkční modul (komponentu). 
+
+3. Vytvořte formulářovou aplikaci, která umožní pracovat se seznamem vyučovaných předmětů. Každý předmět má zkratku a název. 
+Aplikace umožní vkládat předmět do seznamu a nepůjde, aby v seznamu bylo více předmětů se stejnou zkratkou. Bude uchovávan seznam uspořádaný abecedně podle názvu předmětu. 
+Aplikace umožní zobrazit seznam předmětů a umožňí vybírat více předmětů. V seznamu předmětů bude zobrazena 'zkratka - název předmětu', 
+kdežto v průběžném přehledu zvolených předmětů bude zobrazen 'název předmětu (zkratka)'. Kompletní seznam předmětů a seznam vybraných předmětů bude možno exportovat do souboru (csv).
+
+Předměty, resp. názvy předmětu budou zobrazeny v checkboxech. Zatržení příslušného checkboxu bude znamenat, že předmět je vybrán. 
+V přehledovém okně se postupně budou zobrazovat zvolené předměty (názvy předmětů oddělené středníkem). Aktualizace seznamu vybraných předmětů se provede vždy při jakémkoliv zatržení/odtržení libovolného zaškrtávacího políčka. 
+Zvolte si minimálně pět předmětů a checkboxy umístěně do groupboxu. Pro zobrazení seznamu zvolených předmětů využijte textové políčko (TextBox), které ale nebude editovatelné uživatelem. 
+
+K realizaci využijte komponent GroupBox, CheckBox, TextBox a Label.
+
+Jak se jmenuje události zatrhávacího políčka, která indikuje změnu zatržení na checkboxu? 
+Jak se jmenuje vlastnost textového políčka (TextBox), kterou se zamezí možnost editace textu v políčku. Jak se vizuálně projeví znemožnění editace (resp. nastavení této vlastnosti)? 
+Jaký je význam GroupBoxu?
+
+4. Vytvořte formulářovou aplikaci (resp. fragment formulářové aplikace), která umožní z nabízených názvů předmětů vybrat právě jeden předmět. V přehledovém okně se zobrazí název aktuálně zvoleného předmětu (komponenta TextBox, která není editovatelná). 
+a) Realizuje pomocí radiobuttonů.
+Dále využijte komponent GroupBox, Label a TextBox.
+b) realizuje pomocí comboboxu. 
+Dále využijte Label a TextBox.

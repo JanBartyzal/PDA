@@ -1,0 +1,21 @@
+Procvičení schopností komplexní práce s událostmi nad obrázky
+-------------------------------------------------------------------
+Využijte postupů získaných na aplikaci k prohlížení obrázků z předcházejícího cvičení k vytvoření aplikace využívající slepou mapu České republiky (nebo jiného státu).
+Mapu ČR si jako obrázek stáhněte z webu:
+http://www.slepamapa.cz/slepa-mapa-cr.html
+
+Vytvořte pole s názvem města a jeho souřadnicemi odpovídající vašemu rozlišení obrázku, kde město leží (nemusí jít o realistické umístění).
+Uživatel si vybere v list boxu jedno z měst v seznamu a kurzorem klikne na předpokládané místo kde leží město.
+Program vyhodnotí uživatelem určené místo a zobrazí přímou vzdušnou vzdálenost od správného místa. 
+
+Správně určené místo bude v bodě vzdáleným maximálně 20 pixelu (či jiné vhodné hodnoty dle rozlišení). Možno udělat i variabilně z výběrového seznamu jako 3 stupně obtížnosti (různé vzdálenosti od správného místa).
+Zobrazujte počty správných a špatných pokusů a průměrnou chybu pokusu.
+Doplňte tlačítko na start pokusů, co vynuluje všechny pokusy.
+
+Aplikaci se všemi soubory zapakujte do ZIP a odevzdejte na Moodle, jako výstup z náhrady cvičení i rozpracovanou verzi případně, jde o procvičení.
+
+Mapa s městy
+https://www.top.cz/kraje-a-okresy-ceske-republiky-mapa-seznam-a-cleneni
+
+Volitelné rozšíření aplikace - nepovinné: 
+- Uchovávat informace o pokusech a dosaženém score (v souboru nebo v databázi). Aplikace bude umět zobrazit absolvované pokusy.

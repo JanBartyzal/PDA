@@ -1,0 +1,63 @@
+
+Winform aplikace pro práci s nádržemi
+----------------------------------------
+
+Nádrž má identifikátor nádrže - text. Identifikátor nádrže je unikátní, v seznamu (v aplikaci) nemùže být více nádrží se stejným 
+identifikátorem.
+
+
+Funkce
+1. Spravovat nádrže - vkládat novou nádrž, odebrat nádrž, pro vybranou nádrž pøidat a odebrat.
+vládat novou nádrž
+- nelze vložit nádrž s již existujícím identifikátorem. Protože identifikátor je typu textový údaj, nerozlišují velká a malá písmena 
+(case-unsensitive). Napø. nemùže existovat n01 a N01.
+odebrat nádrž
+- nelze odebrat neprázdnou nádrž
+pøidat a odebrat do zvolené (vybrané) nádrže
+- hlídat krajní meze v rámci metod nádrže. V prezentaèní vrstvì se dozvíme, zda nedošlo k provedení operace a pøesný dùvod. 
+Tedy, metody nádrže generují definovaný typ výjimky. NelzeVlozitDoNadrzeException a NelzeOdebratZNadrzeException.
+- pro zvolenou nádrž vybranou v comboboxu, zobrazí se info o nádrži a umožní se pøidat/odebrat
+
+2. Seznam nádrží (pøehled):
+umožnìní výbìr nádrže
+- zobrazení seznamu nádrží v komponentì ListBox: položka bude zobrazovat 'identifikátor nádrže : aktuální stav / objem'
+- zobrazení seznamu nádrží v komponentì ComBox: položka bude zobrazovat 'identifikátor nádrže'
+- seøadit seznam nádrží sestupnì/vzestupnì podle volby: použít radiobuttony a tlaèítko pro provedení operace
+seøadit podle aktuálního stavu sestupnì/vzestupnì
+seøadit podle identifikátoru (case-unsenstive) [sestupnì]/vzestupnì
+
+3. Vyhledávání
+získat informace o nádrži zadané poøadových èíslem
+získat informace o nádrži zadané identifikátorem
+výbìr nádrže v comboboxu
+
+Využité komponenty:
+- použití datové kolekce (typová kolekce) a využití jejich možností, 
+využití metody Equals, Contains (napø. pøi vkládání nové nádrže, pøi vyhledání nádrže v seznamu na základì zadaného identifikátoru nádrže)
+využití metody Sort a komparaèních funkcí (pro øazení)
+využití metody IndexOf (pro vyhledání objektu nádrže v seznamu na základì zadaného poøadí)
+využití metody Remove (odstranìní nádrže na základì názvu)
+
+
+Postup øešení:
+Nejdøíve pracujte s programovì vytvoøených seznem nádrží. A po odladìní implementovaných funkcí pøidejte implementaci vkládání nové nádrže.
+Programovì vytvoøený seznam nádrží bude uchováván v samostatném seznamu a pro naplnìní originální seznamu použit. Pøedstavte více možností použití.
+
+List<Nadrz> list_main;
+List<Nadrz> list_debug     {N01, N05, N03}
+
+Využití messageboxu.
+
+(!!!) Oddìlte striktnì prezentaèní vrstvu, viz fotka tabule. na winform bude jako atribut objekt tøídy SeznamNadrzi, ktery bude realizovat
+dílèí operací a funkce. 
+
+Návrh uživatelského rozhraní:
+----------------------------------
+
+menu
+- položka Konec, O aplikaci
+- položka pro souborové operace
+
+tabpage a tabitem
+- rozdìlit ListBox, funkce pro listbox a ComboBox, funkce pro combobox, vyhledání
+
