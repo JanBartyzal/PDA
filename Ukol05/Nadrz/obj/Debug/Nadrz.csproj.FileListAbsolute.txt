@@ -1,0 +1,10 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\bin\Debug\Nadrz.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\bin\Debug\Nadrz.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\bin\Debug\Nadrz.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.Form1.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol05\Nadrz\obj\Debug\Nadrz.pdb
