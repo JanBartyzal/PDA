@@ -1,0 +1,34 @@
+1.
+
+Vytvoření jádra textového editoru. 
+
+Textový editor umožní pomocí položek v menu změnit vybraný text i) na velká písmena, ii) na malá písmena, 
+iii) první písmeno slov vybraného textu na velké písmeno a ostatní písmena na malá písmena.
+
+Aplikace umožní Otevřít dokument, Uložit dokument, Uzavřít dokument a založit Nový dokument. Dokumenty se ukládají do textového souboru txt, csv. 
+Aplikace bude zobrazovat informaci o aplikaci. 
+
+Menu bude ovladatelné pomocí klávesových zkratek.
+
+Ukončení aplikace bude položkou menu a bude ošetřeno nechtěné ukončení aplikace - Dotaz na uzavření aplikace.
+
+Aplikace bude hlídat neuložený dokument - při uzavírání dokumentu nebo neuzavřený (neuložený) dokument při otevírání jiného dokumentu.
+
+Ve stavovém řádku se budou zobrazovat informace o dokumentu - název dokumentu, počet písmen/počet slov/počet řádků, ...
+
+-------
+
+Použijte: menu (MenuString), víceřádkový textbox, 
+
+-----------------------------------------
+
+2. 
+
+Vytvořte komponentu (user-control), která umožní vybrat soubor pro čtení a vybrat soubor pro zápis. Použijte komponenty OpenFialogDialog a SaveFileDialog. 
+Možností filtrace souborů v OpenFialDialogu bude 'všechny soubory (*.*)', 'textové soubory (*.txt)', 'csv soubory (*.csv)', 'xml-soubory (*.xml)', například ještě 'config soubory (*.ini)'.
+
+Komponenta umožní vybrat soubor pro čtení a soubor pro zápis, cestu s názvem vybraného souboru zobrazí v textové komponentě, které bude needitovatelné. 
+
+Viz obrázek. 
+
+Funlčnost použití komponenty otestujte v aplikaci. 

@@ -109,5 +109,6 @@ Kapacitu nádrže chceme řešit jako "konstantu", ale její hodnota se bude nas
                 _numID = value;
             }
         }
+        
     }
 }

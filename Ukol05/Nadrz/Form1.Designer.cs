@@ -37,20 +37,43 @@
             this.label2 = new System.Windows.Forms.Label();
             this.buttonNovaNadrz = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.tbStavNadrze = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.tbLitry = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.tbNadrzObjem2 = new System.Windows.Forms.TextBox();
             this.tbNadrzNazev2 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.label6 = new System.Windows.Forms.Label();
-            this.tbLitry = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
-            this.tbStavNadrze = new System.Windows.Forms.TextBox();
+            this.lbNadrz = new System.Windows.Forms.ListBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.tbFindByID = new System.Windows.Forms.TextBox();
+            this.tbFindByName = new System.Windows.Forms.TextBox();
+            this.tbVysledekHledani = new System.Windows.Forms.TextBox();
+            this.buttonHledejID = new System.Windows.Forms.Button();
+            this.buttonHledenNazev = new System.Windows.Forms.Button();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.konecToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.nahrajAUlozToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.oAplikaciToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.nahrajSeznamToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.uložSeznamToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.nahrajDebugSeznamToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // cbNadrze
@@ -148,6 +171,51 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Pridat/odebrat z nádrže";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(29, 90);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(29, 13);
+            this.label7.TabIndex = 16;
+            this.label7.Text = "Stav";
+            // 
+            // tbStavNadrze
+            // 
+            this.tbStavNadrze.Location = new System.Drawing.Point(72, 87);
+            this.tbStavNadrze.Name = "tbStavNadrze";
+            this.tbStavNadrze.ReadOnly = true;
+            this.tbStavNadrze.Size = new System.Drawing.Size(100, 20);
+            this.tbStavNadrze.TabIndex = 15;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(97, 155);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 14;
+            this.button2.Text = "Odebrat";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(29, 120);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(26, 13);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Litry";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
+            // 
+            // tbLitry
+            // 
+            this.tbLitry.Location = new System.Drawing.Point(72, 117);
+            this.tbLitry.Name = "tbLitry";
+            this.tbLitry.Size = new System.Drawing.Size(100, 20);
+            this.tbLitry.TabIndex = 12;
+            this.tbLitry.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -192,34 +260,6 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(29, 120);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(26, 13);
-            this.label6.TabIndex = 13;
-            this.label6.Text = "Litry";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
-            // 
-            // tbLitry
-            // 
-            this.tbLitry.Location = new System.Drawing.Point(72, 117);
-            this.tbLitry.Name = "tbLitry";
-            this.tbLitry.Size = new System.Drawing.Size(100, 20);
-            this.tbLitry.TabIndex = 12;
-            this.tbLitry.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(97, 155);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "Odebrat";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(307, 41);
@@ -239,40 +279,235 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // label7
+            // lbNadrz
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(29, 90);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(29, 13);
-            this.label7.TabIndex = 16;
-            this.label7.Text = "Stav";
+            this.lbNadrz.FormattingEnabled = true;
+            this.lbNadrz.Location = new System.Drawing.Point(94, 133);
+            this.lbNadrz.Name = "lbNadrz";
+            this.lbNadrz.Size = new System.Drawing.Size(120, 147);
+            this.lbNadrz.TabIndex = 15;
+            this.lbNadrz.SelectedIndexChanged += new System.EventHandler(this.lbNadrz_SelectedIndexChanged);
             // 
-            // tbStavNadrze
+            // groupBox3
             // 
-            this.tbStavNadrze.Location = new System.Drawing.Point(72, 87);
-            this.tbStavNadrze.Name = "tbStavNadrze";
-            this.tbStavNadrze.ReadOnly = true;
-            this.tbStavNadrze.Size = new System.Drawing.Size(100, 20);
-            this.tbStavNadrze.TabIndex = 15;
+            this.groupBox3.Controls.Add(this.checkBox3);
+            this.groupBox3.Controls.Add(this.checkBox2);
+            this.groupBox3.Controls.Add(this.checkBox1);
+            this.groupBox3.Controls.Add(this.radioButton2);
+            this.groupBox3.Controls.Add(this.radioButton1);
+            this.groupBox3.Location = new System.Drawing.Point(237, 133);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(200, 168);
+            this.groupBox3.TabIndex = 16;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Řazení nardží";
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(7, 20);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(75, 17);
+            this.radioButton1.TabIndex = 0;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "Vzestupně";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(7, 42);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(70, 17);
+            this.radioButton2.TabIndex = 1;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "Sestupně";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(7, 73);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(67, 17);
+            this.checkBox1.TabIndex = 2;
+            this.checkBox1.Text = "Podle ID";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(7, 97);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(85, 17);
+            this.checkBox2.TabIndex = 3;
+            this.checkBox2.Text = "Podle názvu";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+            // 
+            // checkBox3
+            // 
+            this.checkBox3.AutoSize = true;
+            this.checkBox3.Location = new System.Drawing.Point(7, 121);
+            this.checkBox3.Name = "checkBox3";
+            this.checkBox3.Size = new System.Drawing.Size(82, 17);
+            this.checkBox3.TabIndex = 4;
+            this.checkBox3.Text = "Podle stavu";
+            this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
+            // 
+            // tbFindByID
+            // 
+            this.tbFindByID.Location = new System.Drawing.Point(146, 363);
+            this.tbFindByID.Name = "tbFindByID";
+            this.tbFindByID.Size = new System.Drawing.Size(48, 20);
+            this.tbFindByID.TabIndex = 17;
+            // 
+            // tbFindByName
+            // 
+            this.tbFindByName.Location = new System.Drawing.Point(94, 389);
+            this.tbFindByName.Name = "tbFindByName";
+            this.tbFindByName.Size = new System.Drawing.Size(100, 20);
+            this.tbFindByName.TabIndex = 18;
+            // 
+            // tbVysledekHledani
+            // 
+            this.tbVysledekHledani.Location = new System.Drawing.Point(94, 416);
+            this.tbVysledekHledani.Name = "tbVysledekHledani";
+            this.tbVysledekHledani.ReadOnly = true;
+            this.tbVysledekHledani.Size = new System.Drawing.Size(304, 20);
+            this.tbVysledekHledani.TabIndex = 19;
+            // 
+            // buttonHledejID
+            // 
+            this.buttonHledejID.Location = new System.Drawing.Point(201, 360);
+            this.buttonHledejID.Name = "buttonHledejID";
+            this.buttonHledejID.Size = new System.Drawing.Size(75, 23);
+            this.buttonHledejID.TabIndex = 20;
+            this.buttonHledejID.Text = "Hledej";
+            this.buttonHledejID.UseVisualStyleBackColor = true;
+            this.buttonHledejID.Click += new System.EventHandler(this.buttonHledejID_Click);
+            // 
+            // buttonHledenNazev
+            // 
+            this.buttonHledenNazev.Location = new System.Drawing.Point(201, 389);
+            this.buttonHledenNazev.Name = "buttonHledenNazev";
+            this.buttonHledenNazev.Size = new System.Drawing.Size(75, 23);
+            this.buttonHledenNazev.TabIndex = 21;
+            this.buttonHledenNazev.Text = "Hledej";
+            this.buttonHledenNazev.UseVisualStyleBackColor = true;
+            this.buttonHledenNazev.Click += new System.EventHandler(this.buttonHledenNazev_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(78, 365);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(62, 13);
+            this.label8.TabIndex = 22;
+            this.label8.Text = "Hldej dle ID";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(33, 392);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(55, 13);
+            this.label9.TabIndex = 23;
+            this.label9.Text = "Dle nazvu";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.konecToolStripMenuItem,
+            this.nahrajAUlozToolStripMenuItem,
+            this.oAplikaciToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.TabIndex = 24;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // konecToolStripMenuItem
+            // 
+            this.konecToolStripMenuItem.Name = "konecToolStripMenuItem";
+            this.konecToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+            this.konecToolStripMenuItem.Text = "Konec";
+            this.konecToolStripMenuItem.Click += new System.EventHandler(this.konecToolStripMenuItem_Click);
+            // 
+            // nahrajAUlozToolStripMenuItem
+            // 
+            this.nahrajAUlozToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.nahrajSeznamToolStripMenuItem,
+            this.uložSeznamToolStripMenuItem,
+            this.nahrajDebugSeznamToolStripMenuItem});
+            this.nahrajAUlozToolStripMenuItem.Name = "nahrajAUlozToolStripMenuItem";
+            this.nahrajAUlozToolStripMenuItem.Size = new System.Drawing.Size(88, 20);
+            this.nahrajAUlozToolStripMenuItem.Text = "Nahraj a uloz";
+            // 
+            // oAplikaciToolStripMenuItem
+            // 
+            this.oAplikaciToolStripMenuItem.Name = "oAplikaciToolStripMenuItem";
+            this.oAplikaciToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.oAplikaciToolStripMenuItem.Text = "O Aplikaci";
+            this.oAplikaciToolStripMenuItem.Click += new System.EventHandler(this.oAplikaciToolStripMenuItem_Click);
+            // 
+            // nahrajSeznamToolStripMenuItem
+            // 
+            this.nahrajSeznamToolStripMenuItem.Name = "nahrajSeznamToolStripMenuItem";
+            this.nahrajSeznamToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.nahrajSeznamToolStripMenuItem.Text = "Nahraj seznam";
+            this.nahrajSeznamToolStripMenuItem.Click += new System.EventHandler(this.nahrajSeznamToolStripMenuItem_Click);
+            // 
+            // uložSeznamToolStripMenuItem
+            // 
+            this.uložSeznamToolStripMenuItem.Name = "uložSeznamToolStripMenuItem";
+            this.uložSeznamToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.uložSeznamToolStripMenuItem.Text = "Ulož seznam";
+            this.uložSeznamToolStripMenuItem.Click += new System.EventHandler(this.uložSeznamToolStripMenuItem_Click);
+            // 
+            // nahrajDebugSeznamToolStripMenuItem
+            // 
+            this.nahrajDebugSeznamToolStripMenuItem.Name = "nahrajDebugSeznamToolStripMenuItem";
+            this.nahrajDebugSeznamToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
+            this.nahrajDebugSeznamToolStripMenuItem.Text = "Nahraj debug seznam";
+            this.nahrajDebugSeznamToolStripMenuItem.Click += new System.EventHandler(this.nahrajDebugSeznamToolStripMenuItem_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.buttonHledenNazev);
+            this.Controls.Add(this.buttonHledejID);
+            this.Controls.Add(this.tbVysledekHledani);
+            this.Controls.Add(this.tbFindByName);
+            this.Controls.Add(this.tbFindByID);
+            this.Controls.Add(this.groupBox3);
+            this.Controls.Add(this.lbNadrz);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cbNadrze);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -301,6 +536,27 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox tbStavNadrze;
+        private System.Windows.Forms.ListBox lbNadrz;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.TextBox tbFindByID;
+        private System.Windows.Forms.TextBox tbFindByName;
+        private System.Windows.Forms.TextBox tbVysledekHledani;
+        private System.Windows.Forms.Button buttonHledejID;
+        private System.Windows.Forms.Button buttonHledenNazev;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem konecToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem nahrajAUlozToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem nahrajSeznamToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem uložSeznamToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem oAplikaciToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem nahrajDebugSeznamToolStripMenuItem;
     }
 }
 

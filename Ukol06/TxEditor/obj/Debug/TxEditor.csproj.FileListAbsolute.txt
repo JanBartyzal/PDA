@@ -1,0 +1,12 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\bin\Debug\TxEditor.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\bin\Debug\TxEditor.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\bin\Debug\TxEditor.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.Form1.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.SouboryIO.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol06\TxEditor\obj\Debug\TxEditor.Soubor.resources

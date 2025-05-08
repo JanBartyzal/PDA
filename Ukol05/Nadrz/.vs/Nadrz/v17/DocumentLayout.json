@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol05\\nadrz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol05\\nadrz\\spravanadrzi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\spravanadrzi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|solutionrelative:spravanadrzi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol05\\nadrz\\nadrz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\nadrz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3726E92-33DB-482C-84C8-56605616D0A5}|Nadrz.csproj|solutionrelative:nadrz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SpravaNadrzi.cs",
               "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\SpravaNadrzi.cs",
               "RelativeDocumentMoniker": "SpravaNadrzi.cs",
               "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\SpravaNadrzi.cs",
               "RelativeToolTip": "SpravaNadrzi.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T17:30:44.903Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "Nadrz.cs",
               "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\Nadrz.cs",
               "RelativeToolTip": "Nadrz.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAmwGYAAAAPAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAIAwwG8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T17:28:59.749Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol05\\Nadrz\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAgwI0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T17:28:55.029Z",
               "EditorCaption": ""

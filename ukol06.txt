@@ -1,6 +1,0 @@
-Proveďte rozšíření aplikace Nádrže (z předchozího cvičení) o funkci import data ze souboru / export dat do souboru. Pracujte nyní s textovým souborem. 
-
-Aplikace bude umět provádět import/export dat pro soubor vybraný v dialogovém okně. 
-Aplikace bude defaultně načítat data ze souboru a to automaticky při spuštšní aplikace.
-
-Ošetřujte chybové stavy!

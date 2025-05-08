@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\souboryio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:souboryio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\soubor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:soubor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\souboryio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:souboryio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\soubor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:soubor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|c:\\users\\janba\\onedrive\\documents\\skola\\pda\\projekt\\ukol06\\txeditor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A878A9-FB69-4A7E-8E32-62ED69B2FA54}|TxEditor.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Soubor.cs",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Soubor.cs",
+              "RelativeDocumentMoniker": "Soubor.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Soubor.cs",
+              "RelativeToolTip": "Soubor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:33:59.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Soubor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Soubor.cs",
+              "RelativeDocumentMoniker": "Soubor.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Soubor.cs [Design]",
+              "RelativeToolTip": "Soubor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:03:01.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:21:28.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAIAwwI0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:22:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SouboryIO.cs",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\SouboryIO.cs",
+              "RelativeDocumentMoniker": "SouboryIO.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\SouboryIO.cs",
+              "RelativeToolTip": "SouboryIO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:13:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SouboryIO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\SouboryIO.cs",
+              "RelativeDocumentMoniker": "SouboryIO.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\SouboryIO.cs [Design]",
+              "RelativeToolTip": "SouboryIO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:09:30.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\janba\\OneDrive\\Documents\\Skola\\PDA\\Projekt\\Ukol06\\TxEditor\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:49:18.961Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

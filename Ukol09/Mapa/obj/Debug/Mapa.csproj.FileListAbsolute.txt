@@ -1,0 +1,10 @@
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\bin\Debug\Mapa.exe.config
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\bin\Debug\Mapa.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\bin\Debug\Mapa.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.csproj.AssemblyReference.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.Properties.Resources.resources
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.csproj.GenerateResource.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.csproj.CoreCompileInputs.cache
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.exe
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.pdb
+C:\Users\janba\OneDrive\Documents\Skola\PDA\Projekt\Ukol09\Mapa\obj\Debug\Mapa.Lokace.resources

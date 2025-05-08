@@ -1,0 +1,5 @@
+Nadrz1;100;10
+Nadrz2;200;50
+Nadrz3;300;0
+Nadrz4;100;25
+Nadrz5;100;0
